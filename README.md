@@ -122,22 +122,27 @@ The system follows a simple full-stack flow:
 
 ## Project Screenshots
 
-<figure>
-  <img src="Add_Update Tab.JPG" alt="Add_Update Tab">
-  <div align="center"><figcaption>Figure: Add/Update Tab</figcaption></div>
-</figure>
+<p align="center">
+  <img src="https://github.com/bilalayub10/Python_Expense_Tracking_System/blob/main/Images/Add_Update%20Tab.JPG?raw=true" alt="Add_Update Tab">
+</p>
+<p align="center"><b>Figure:</b> Add/Update Tab</p>
 
-<figure>
-  <img src="Analytics By Category Tab.gif" alt="Analytics By Category Tab">
-  <div align="center"><figcaption>Figure: Analytics By Category Tab</figcaption></div>
-</figure>
+<p align="center">
+  <img src="https://github.com/bilalayub10/Python_Expense_Tracking_System/blob/main/Images/Analytics%20By%20Category%20Tab.gif?raw=true" alt="Analytics By Category Tab">
+</p>
+<p align="center"><b>Figure:</b> Analytics By Category Tab</p>
 
-<figure>
-  <img src="Analytics By Months Tab.JPG" alt="Analytics By Months Tab">
-  <div align="center"><figcaption>Figure: Analytics By Months Tab</figcaption></div>
-</figure>
+<p align="center">
+  <img src="https://github.com/bilalayub10/Python_Expense_Tracking_System/blob/main/Images/Analytics%20By%20Months%20Tab.JPG?raw=true" alt="Analytics By Months Tab">
+</p>
+<p align="center"><b>Figure:</b> Analytics By Months Tab</p>
 
 ## Project Live Demo
+
+<p align="center">
+  <img src="https://github.com/bilalayub10/Python_Expense_Tracking_System/blob/main/Images/Analytics%20By%20Category%20Tab.gif?raw=true" alt="Analytics By Category Tab">
+</p>
+<p align="center"><b>Figure:</b> Analytics By Category Tab</p>
 
 This project showcases building a full-stack data app with Streamlit + FastAPI + MySQL.
 It’s a solid foundation for expense tracking systems and can be extended with more advanced features.
