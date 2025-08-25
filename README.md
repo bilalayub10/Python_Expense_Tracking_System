@@ -128,7 +128,7 @@ The system follows a simple full-stack flow:
 </figure>
 
 <figure>
-  <img src="Analytics By Category Tab.JPG" alt="Analytics By Category Tab">
+  <img src="Analytics By Category Tab.gif" alt="Analytics By Category Tab">
   <div align="center"><figcaption>Figure: Analytics By Category Tab</figcaption></div>
 </figure>
 
