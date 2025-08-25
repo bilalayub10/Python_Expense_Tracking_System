@@ -29,8 +29,8 @@ This project helps users efficiently **track, update, and analyze expenses** wit
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
-   cd expense-management-system
+   git clone https://github.com/bilalayub10/Python-Expense-Tracking-System.git
+   cd Python-Expense-Tracking-System
 
 2. **Install dependencies**
    ```bash
@@ -81,7 +81,7 @@ CREATE TABLE expenses (
     notes TEXT
 );
 ```
-###c Database Credentials Setup
+### Database Credentials Setup
 
 The backend connects to MySQL using credentials stored in a .env file for security.
 
@@ -121,6 +121,21 @@ The system follows a simple full-stack flow:
 ```
 
 ## Project Screenshots
+
+<figure>
+  <img src="Add_Update Tab.JPG" alt="Add_Update Tab">
+  <div align="center"><figcaption>Figure: Add/Update Tab</figcaption></div>
+</figure>
+
+<figure>
+  <img src="Analytics By Category Tab.JPG" alt="Analytics By Category Tab">
+  <div align="center"><figcaption>Figure: Analytics By Category Tab</figcaption></div>
+</figure>
+
+<figure>
+  <img src="Analytics By Months Tab.JPG" alt="Analytics By Months Tab">
+  <div align="center"><figcaption>Figure: Analytics By Months Tab</figcaption></div>
+</figure>
 
 ## Project Live Demo
 
