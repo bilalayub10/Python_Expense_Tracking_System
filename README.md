@@ -138,7 +138,7 @@ The system follows a simple full-stack flow:
 <p align="center"><b>Figure:</b> Analytics By Months Tab</p>
 
 ## Project Live Demo
-Watch the live demo in my LinkedIn post [here](https://www.linkedin.com/in/muhammad-bilal-ayub/)
+Watch the live demo in my LinkedIn post [here](https://www.linkedin.com/posts/muhammad-bilal-ayub_codebasics-python-fastapi-activity-7365910552977534977-63fv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD04APEBYqCqgcz4clwXp_8hn_MtgwCPeLA)
 
 This project showcases building a full-stack data app with Streamlit + FastAPI + MySQL.
 It’s a solid foundation for expense tracking systems and can be extended with more advanced features.
