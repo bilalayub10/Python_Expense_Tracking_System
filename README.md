@@ -1,5 +1,21 @@
 # Expense Tracking System  
 
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
+- [Database Setup](#database-setup)
+- [How It Works](#how-it-works)
+- [Architecture Diagram](#architecture-diagram)
+- [Project Screenshots](#project-screenshots)
+- [Project Live Demo](#project-live-demo)
+- [Let's Connect](#lets-connect)
+
+## Project Overview
+
 A full-stack **Expense Tracking System** built with **Streamlit (frontend)** and **FastAPI (backend)**.  
 This project helps users efficiently **track, update, and analyze expenses** with a simple interface.
 
@@ -29,8 +45,8 @@ This project helps users efficiently **track, update, and analyze expenses** wit
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/bilalayub10/Python-Expense-Tracking-System.git
-   cd Python-Expense-Tracking-System
+   git clone https://github.com/bilalayub10/Python_Expense_Tracking_System.git
+   cd Python_Expense_Tracking_System
 
 2. **Install dependencies**
    ```bash
@@ -138,7 +154,7 @@ The system follows a simple full-stack flow:
 <p align="center"><b>Figure:</b> Analytics By Months Tab</p>
 
 ## Project Live Demo
-Watch the live demo in my LinkedIn post [here](https://www.linkedin.com/posts/muhammad-bilal-ayub_codebasics-python-fastapi-activity-7365910552977534977-63fv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD04APEBYqCqgcz4clwXp_8hn_MtgwCPeLA)
+Watch the live demo in my LinkedIn post [here](https://www.linkedin.com/posts/muhammad-bilal-ayub_codebasics-python-fastapi-activity-7365910552977534977-63fv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD04APEBYqCqgcz4clwXp_8hn_MtgwCPeLA).
 
 This project showcases building a full-stack data app with Streamlit + FastAPI + MySQL.
 It’s a solid foundation for expense tracking systems and can be extended with more advanced features.
