@@ -24,7 +24,8 @@ This project helps users efficiently **track, update, and analyze expenses** wit
 - **Analytics by Expense Category** (e.g., Food, Rent, etc.)  
 - **Monthly Expense Analytics**  
 - **Fast & Scalable Backend API (FastAPI + MySQL)**  
-- **Test Coverage with Pytest**  
+- **Test Coverage with Pytest**
+- **Basic Backend Logging for Debugging and API Monitoring** 
 
 ## Tech Stack  
 - **Frontend:** Streamlit  
